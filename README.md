@@ -13,7 +13,7 @@ A simple CLI tool written in Go to generate valid Iranian national codes. This t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/national-code-generator.git
+   git clone https://github.com/mahdikaseatashin/national-code-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -91,4 +91,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-Created by [Your Name](https://github.com/yourusername). For inquiries, feel free to reach out!
+Created by [Mahdi Kase Atashin](https://github.com/mahdikaseatashin). For inquiries, feel free to reach out!
